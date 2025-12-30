@@ -26,21 +26,26 @@ its biological role?
 
 ### 2. Sequence Similarity Analysis
 - Tool: BLASTp
-- Database: NCBI non-redundant (nr)
+- Database: NCBI non-redundant (nr) <img width="1920" height="1024" alt="Screenshot 2025-12-31 021644" src="https://github.com/user-attachments/assets/87dbf374-fb5d-4ca0-9109-ebc124ba653d" />
+
 
 ### 3. Domain and Motif Analysis
 - Tools: InterProScan, Pfam
 - Domains: Two nucleotide-binding domains (NBDs) and
-  multiple transmembrane domains
+  multiple transmembrane domains <img width="1870" height="961" alt="Screenshot 2025-12-31 022603" src="https://github.com/user-attachments/assets/3ae07a51-465e-4b3d-a7ce-5f2264a93f77" />
+
 
 ### 4. Physicochemical Characterization
 - Tool: ExPASy ProtParam
 - Parameters: Molecular weight, isoelectric point,
-  instability index, aliphatic index
+  instability index, aliphatic index<img width="1920" height="981" alt="Screenshot 2025-12-31 023348" src="https://github.com/user-attachments/assets/862b3243-03b2-484c-a765-3f548de35113" /><img width="1920" height="1030" alt="Screenshot 2025-12-31 023444" src="https://github.com/user-attachments/assets/e8214b4c-2193-41b2-a239-1ea8170a91bc" />
+
+
 
 ### 5. Transmembrane Helix Prediction
 - Tool: TMHMM
-- Purpose: Identification of membrane-spanning regions
+- Purpose: Identification of membrane-spanning regions<img width="1920" height="974" alt="Screenshot 2025-12-31 024255" src="https://github.com/user-attachments/assets/34f6c341-4fbe-4df9-bd64-476bfe843132" />
+
 
 ## Results
 BLASTp analysis confirmed high similarity with CFTR homologs
