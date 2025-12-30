@@ -1,0 +1,7 @@
+Wild-type length: 9
+Mutant length: 8
+Mutation detected at position: 3
+Wild-type amino acid: F
+Mutant amino acid: G
+
+=== Code Execution Successful ===
