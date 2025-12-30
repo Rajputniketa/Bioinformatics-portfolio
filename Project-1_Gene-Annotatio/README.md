@@ -44,7 +44,8 @@ its biological role?
 
 ### 5. Transmembrane Helix Prediction
 - Tool: TMHMM
-- Purpose: Identification of membrane-spanning regions<img width="1920" height="974" alt="Screenshot 2025-12-31 024255" src="https://github.com/user-attachments/assets/34f6c341-4fbe-4df9-bd64-476bfe843132" />
+- Purpose: Identification of membrane-spanning regions<img width="1920" height="974" alt="Screenshot 2025-12-31 024255" src="https://github.com/user-attachments/assets/34f6c341-4fbe-4df9-bd64-476bfe843132" /><img width="1920" height="938" alt="Screenshot 2025-12-31 024402" src="https://github.com/user-attachments/assets/e9e21bfa-124c-43aa-83d5-de17536a3d4b" />
+
 
 
 ## Results
