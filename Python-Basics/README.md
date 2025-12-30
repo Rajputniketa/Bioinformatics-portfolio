@@ -7,6 +7,7 @@ using Python scripting.
 ## Tasks Performed
 - Calculated protein length
 - Counted amino acid composition
+- Calculated GC content using Python string methods
 
 ## Skills Demonstrated
 - Python scripting
