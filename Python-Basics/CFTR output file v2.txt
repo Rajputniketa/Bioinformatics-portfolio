@@ -1,0 +1,26 @@
+CFTR Protein Length: 1480
+Amino Acid Composition:
+M : 37
+Q : 67
+R : 78
+S : 123
+P : 45
+L : 183
+E : 93
+K : 92
+A : 83
+V : 90
+F : 85
+W : 23
+T : 83
+I : 119
+G : 84
+Y : 40
+D : 58
+N : 54
+C : 18
+H : 25
+
+GC Content (conceptual): 6.89 %
+
+=== Code Execution Successful ===
