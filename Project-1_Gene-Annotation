@@ -22,6 +22,7 @@ its biological role?
 ## Methodology
 ### 1. Sequence Retrieval
 - Protein sequence obtained in FASTA format from UniProt
+https://rest.uniprot.org/uniprotkb/P13569.fasta
 
 ### 2. Sequence Similarity Analysis
 - Tool: BLASTp
