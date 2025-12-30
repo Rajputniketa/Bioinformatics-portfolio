@@ -1,0 +1,68 @@
+# Project 1: In-silico Characterization of the Human CFTR Protein
+
+## Background
+The Cystic Fibrosis Transmembrane Conductance Regulator (CFTR)
+is a chloride ion channel protein encoded by the CFTR gene.
+Mutations in CFTR cause cystic fibrosis, a life-threatening
+genetic disorder affecting the lungs and digestive system.
+Understanding the structure and function of CFTR is critical
+for disease diagnosis and therapeutic development.
+
+## Research Question
+What are the structural, functional, and physicochemical
+properties of the CFTR protein, and how do they relate to
+its biological role?
+
+## Gene and Protein Information
+- Organism: Homo sapiens
+- Gene name: CFTR
+- UniProt ID: P13569
+- Protein length: 1480 amino acids
+
+## Methodology
+### 1. Sequence Retrieval
+- Protein sequence obtained in FASTA format from UniProt
+
+### 2. Sequence Similarity Analysis
+- Tool: BLASTp
+- Database: NCBI non-redundant (nr)
+
+### 3. Domain and Motif Analysis
+- Tools: InterProScan, Pfam
+- Domains: Two nucleotide-binding domains (NBDs) and
+  multiple transmembrane domains
+
+### 4. Physicochemical Characterization
+- Tool: ExPASy ProtParam
+- Parameters: Molecular weight, isoelectric point,
+  instability index, aliphatic index
+
+### 5. Transmembrane Helix Prediction
+- Tool: TMHMM
+- Purpose: Identification of membrane-spanning regions
+
+## Results
+BLASTp analysis confirmed high similarity with CFTR homologs
+across vertebrates. Domain analysis identified conserved
+ABC transporter domains and transmembrane helices essential
+for ion channel activity. Physicochemical analysis suggests
+that CFTR is a stable, hydrophobic membrane protein.
+
+## Biological Interpretation
+CFTR functions as an ATP-regulated chloride channel.
+The presence of conserved ABC transporter domains supports
+its role in ion transport and epithelial fluid regulation.
+
+## Limitations
+- Structural predictions are computational
+- No experimental or clinical validation performed
+
+## Future Wet-Lab Validation
+- Expression analysis in epithelial cell lines
+- Functional chloride channel assays
+- Mutation analysis for disease-associated variants
+
+## Conclusion
+This in-silico analysis provides a comprehensive overview
+of the CFTR protein and highlights the importance of
+bioinformatics approaches in understanding genetic diseases.
