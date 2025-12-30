@@ -23,3 +23,13 @@ print("CFTR Protein Length:", protein_length)
 print("Amino Acid Composition:")
 for aa, count in amino_acid_count.items():
     print(aa, ":", count)
+
+# Step 5: Calculate GC content (for DNA-like understanding)
+# (Conceptual relevance for sequence analysis)
+
+g_count = cftr_sequence.count("G")
+c_count = cftr_sequence.count("C")
+
+gc_content = ((g_count + c_count) / protein_length) * 100
+
+print("\nGC Content (conceptual):", round(gc_content, 2), "%")
