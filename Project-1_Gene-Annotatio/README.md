@@ -25,7 +25,7 @@ its biological role?
   <img width="1426" height="733" alt="Screenshot 2025-12-31 030018" src="https://github.com/user-attachments/assets/61670420-73ab-428c-bc89-c79683855cf8" />
 
 
-### 2. Sequence Similarity Analysis
+### 2. Sequence Similarity Analysis https://rest.uniprot.org/uniprotkb/P13569.fasta
 - Tool: BLASTp
 - Database: NCBI non-redundant (nr)
   <img width="1920" height="1024" alt="Screenshot 2025-12-31 021644" src="https://github.com/user-attachments/assets/87dbf374-fb5d-4ca0-9109-ebc124ba653d" />
