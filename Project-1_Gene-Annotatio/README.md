@@ -20,12 +20,12 @@ its biological role?
 - Protein length: 1480 amino acids
 
 ## Methodology
-### 1. Sequence Retrieval
+### 1. Sequence Retrieval 
 - Protein sequence obtained in FASTA format from UniProt
   <img width="1426" height="733" alt="Screenshot 2025-12-31 030018" src="https://github.com/user-attachments/assets/61670420-73ab-428c-bc89-c79683855cf8" />
 
 
-### 2. Sequence Similarity Analysis https://rest.uniprot.org/uniprotkb/P13569.fasta
+### 2. Sequence Similarity Analysis
 - Tool: BLASTp
 - Database: NCBI non-redundant (nr)
   <img width="1920" height="1024" alt="Screenshot 2025-12-31 021644" src="https://github.com/user-attachments/assets/87dbf374-fb5d-4ca0-9109-ebc124ba653d" />
