@@ -2,7 +2,7 @@
 # Author: Niketa Rajput
 
 # Step 1: Read FASTA file
-with open("CFTR.fasta", "r") as file:
+with open("https://github.com/Rajputniketa/Bioinformatics-portfolio/blob/main/Python-Basics/FASTA_Analysis/CFTR.fasta", "r") as file:
     lines = file.readlines()
 
 # Step 2: Remove header and join sequence
