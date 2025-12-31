@@ -1,0 +1,5 @@
+%runfile 'C:/Users/acer/OneDrive/Desktop/CFTR/FASTA_Analysis/fasta analysis.py' --wdir
+Sequence length: 1480
+A count: 83
+G count: 84
+C count: 18
