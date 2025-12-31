@@ -9,7 +9,7 @@ with open("CFTR.fasta", "r") as file:
 sequence = ""
 for line in lines:
     if not line.startswith(">"):
-        sequence += line.strip()
+        sequence += line.strip(
 
 # Step 3: Basic analysis
 length = len(sequence)
